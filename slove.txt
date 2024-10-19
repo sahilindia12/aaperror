@@ -1,0 +1,9 @@
+android rmdir /s /q .gradle
+
+apk==   npm run android -- --mode="release" 
+
+
+cache chealr === npx react-native start --port 8081 --reset-cache
+
+
+clar singnature == adb uninstall com.awesomeproject
